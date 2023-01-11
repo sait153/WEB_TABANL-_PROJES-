@@ -25,10 +25,10 @@
    <a href="home.php" class="logo">Türkiyenin Seyahtat Sitesi..</a>
 
    <nav class="navbar">
-      <a href="home.php">home</a>
-      <a href="about.php">about</a>
-      <a href="package.php">package</a>
-      <a href="book.php">book</a>
+      <a href="home.php">Bşlangıç</a>
+      <a href="about.php">Hakkımızda</a>
+      <a href="package.php">Paketler</a>
+      <a href="book.php">book etmek</a>
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
@@ -222,10 +222,10 @@ Kuleye birlikte çıkan âşıkların sonunda evlendikleri, kuleyle ilgili rivay
 
       <div class="box">
          <h3>Hızlı Linkler</h3>
-         <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
-         <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
-         <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
-         <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
+         <a href="home.php"> <i class="fas fa-angle-right"></i> Ev</a>
+         <a href="about.php"> <i class="fas fa-angle-right"></i> Hakkımızda</a>
+         <a href="package.php"> <i class="fas fa-angle-right"></i> Paketimiz</a>
+         <a href="book.php"> <i class="fas fa-angle-right"></i> Rezerve iletişim</a>
       </div>
 
       <div class="box">

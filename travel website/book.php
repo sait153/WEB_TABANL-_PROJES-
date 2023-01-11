@@ -25,10 +25,10 @@
    <a href="home.php" class="logo">Türkiyenin Seyahtat Sitesi.</a>
 
    <nav class="navbar">
-      <a href="home.php">Başlangıç</a>
+      <a href="home.php">Bşlangıç</a>
       <a href="about.php">Hakkımızda</a>
       <a href="package.php">Paketler</a>
-      <a href="book.php">Rezerve</a>
+      <a href="book.php">book etmek</a>
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
@@ -51,40 +51,40 @@
 
       <div class="flex">
          <div class="inputBox">
-            <span>Adı :</span>
-            <input type="text" placeholder="Lütfen adınızı Giriniz" name="adı">
+            <span>Adınız ve soyadınız :</span>
+            <input type="text" placeholder="Adınızı giriniz" name="name">
          </div>
          <div class="inputBox">
             <span>Email Adresi :</span>
-            <input type="email" placeholder="Lütfen Email adresinizi Giriniz" name="email">
+            <input type="email" placeholder=" email adresiniz giriniz" name="email">
          </div>
          <div class="inputBox">
             <span>Telefon Numara :</span>
-            <input type="Numara" placeholder="Lütfen Telefon Numaranızı Giriniz" name="Telefon">
+            <input type="number" placeholder="Numaranızı Giriniz" name="phone">
          </div>
          <div class="inputBox">
-            <span>Adres:</span>
-            <input type="text" placeholder="Lütfen Adresiniz Giriniz" name="Adres">
+            <span>Adres :</span>
+            <input type="text" placeholder="Adresinizi Giriniz" name="address">
          </div>
          <div class="inputBox">
             <span>Nereye Gitinizi Yazınız :</span>
-            <input type="text" placeholder="Lütfen Gideceğiniz Yeri belirtin" name="Yer">
+            <input type="text" placeholder="ziyaret etmek istediğin yer" name="location">
          </div>
          <div class="inputBox">
             <span>Ziyaretçi Sayısı :</span>
-            <input type="number" placeholder="Lütfen Ziyaretçi Sayısını Giriniz" name="Ziyarteçi">
+            <input type="number" placeholder="Seyahat etmek sayısı" name="guests">
          </div>
          <div class="inputBox">
             <span>Gidiş Tarihi :</span>
-            <input type="date" name="Lütfen Gidiş Tarihini Belirtin">
+            <input type="date" name="Gidiş">
          </div>
          <div class="inputBox">
             <span>Dönüş Tarihi :</span>
-            <input type="date" name="Lütfen Dönüş Tarihini Belirtin">
+            <input type="date" name="ayrılmak">
          </div>
       </div>
 
-      <input type="Kayıt Ol" value="Kayıt Ol" class="btn" name="send">
+      <input type="submit" value="submit" class="btn" name="send">
 
    </form>
 
@@ -116,17 +116,17 @@
 
       <div class="box">
          <h3>Hızlı Linkler</h3>
-         <a href="home.php"> <i class="fas fa-angle-right"></i> ev</a>
+         <a href="home.php"> <i class="fas fa-angle-right"></i> Rezerve</a>
          <a href="about.php"> <i class="fas fa-angle-right"></i> Hakkımızda</a>
          <a href="package.php"> <i class="fas fa-angle-right"></i> Paketler</a>
-         <a href="book.php"> <i class="fas fa-angle-right"></i> Rezerve</a>
+         <a href="book.php"> <i class="fas fa-angle-right"></i> Rezerveler</a>
       </div>
 
       <div class="box">
          <h3>İletişim bilgileri</h3>
          <a href="#"> <i class="fas fa-angle-right"></i> sorular sor</a>
          <a href="#"> <i class="fas fa-angle-right"></i> Hakkımızda</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> Gizlilik Politikasıy</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> Gizlilik Politikası</a>
          <a href="#"> <i class="fas fa-angle-right"></i> kullanım Şartları</a>
       </div>
 
@@ -134,8 +134,8 @@
          <h3>iletişim bilgileri</h3>
          <a href="#"> <i class="fas fa-phone"></i> 0553******* </a>
          <a href="#"> <i class="fas fa-phone"></i> 0553******* </a>
-         <a href="#"> <i class="fas fa-envelope"></i> *******6@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> Bitlis eren ünüveriste,Türkiye-553******* </a>
+         <a href="#"> <i class="fas fa-envelope"></i> said*****@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i>Bitlis eren ünüveriste,Türkiye-5537616835 </a>
       </div>
 
       <div class="box">

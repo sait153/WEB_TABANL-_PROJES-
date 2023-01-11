@@ -25,10 +25,10 @@
    <a href="home.php" class="logo">Türkiyenin Seyahtat Sitesi..</a>
 
    <nav class="navbar">
-      <a href="home.php">home</a>
-      <a href="about.php">about</a>
-      <a href="package.php">package</a>
-      <a href="book.php">book</a>
+      <a href="home.php">Bşlangıç</a>
+      <a href="about.php">Hakkımızda</a>
+      <a href="package.php">Paketler</a>
+      <a href="book.php">book etmek</a>
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
@@ -223,7 +223,7 @@
 
    </div>
 
-   <div class="credit"> created by <span>mr. web designer</span> | all rights reserved! </div>
+   <div class="credit"> <span>Said hashimi web tasarımcısı</span> 😊😊 </div>
 
 </section>
 
