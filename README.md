@@ -7,3 +7,6 @@
 ve bu projede kullanılan programlama dilleri 
 html.php.css.java.script.veri tabanı maysql.
 kullanılmış bir web sitedir ve müşterilerimizin memnuniyet kaldığını tek tek yorum satırında eklenmiştir.
+
+Bu sitemizde Admin,panel ve sehat rezerve tarhihi yerleri gezmek amaçlı yapılmıştır,
+kullanılan program dillerinden.PHP.CSS:java_script_vs diller kullanmıştır
